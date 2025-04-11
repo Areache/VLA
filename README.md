@@ -3,7 +3,7 @@
 This repository contains notes and analysis on the paper:
 
 **[Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware]([https://arxiv.org/abs/2304.13705](https://arxiv.org/pdf/2304.13705))**  
-*Xinyu Sun, Yixiao Ge, Ying Shan, Xiaohu Qie, Mike Zheng Shou*
+*Tony Z. Zhao, Vikash Kumar, Sergey Levine*
 
 ## 📄 Paper Summary
 
