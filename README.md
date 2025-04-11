@@ -2,7 +2,7 @@
 
 This repository contains notes and analysis on the paper:
 
-**[VLA: Learning Visual-Linguistic Representation for Vision-Language Alignment](https://arxiv.org/abs/2304.13705)**  
+**[Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware]([https://arxiv.org/abs/2304.13705](https://arxiv.org/pdf/2304.13705))**  
 *Xinyu Sun, Yixiao Ge, Ying Shan, Xiaohu Qie, Mike Zheng Shou*
 
 ## 📄 Paper Summary
