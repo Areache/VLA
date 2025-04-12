@@ -2,7 +2,7 @@
 
 This repository contains notes and analysis on the paper:
 
-**[Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware]([https://arxiv.org/abs/2304.13705](https://arxiv.org/pdf/2304.13705))**  
+**[Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware]([https://arxiv.org/abs/2304.13705])**  
 *Tony Z. Zhao, Vikash Kumar, Sergey Levine*
 *Stanford University, UC Berkeley, Meta AI*  
 *Published: April 2023*
@@ -27,7 +27,6 @@ The system successfully performs tasks such as opening a translucent condiment c
 - Demonstration of high success rates in complex bimanual tasks using the proposed system.
 
 ---
-
-## 🔧 Repository Structure
+**
 
 
